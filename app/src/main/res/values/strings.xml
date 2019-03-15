@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Basic Login</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="restaurantActivity_name">TextView</string>
+    <string name="restaurantActivity_cusine">TextView</string>
+    <string name="restaurantActivity_address">TextView</string>
+    <string name="button_save">Save</string>
+    <string name="restaurantActivity_website">TextView</string>
+    <string name="restaurantactivity_name">restaurantActivity_name</string>
+    <string name="restaurantactivity_cusine">restaurantActivity_cusine</string>
+    <string name="a_context_option">A Context Option</string>
+    <string name="delete">Delete</string>
+
+</resources>
